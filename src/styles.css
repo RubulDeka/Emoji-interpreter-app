@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20210206/pngtree-3d-emoji-background-different-reaction-image_555841.jpg");
+  background-position: center;
+}
+input {
+  padding: 1rem;
+  width: 80%;
+}
